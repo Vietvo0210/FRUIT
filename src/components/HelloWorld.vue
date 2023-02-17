@@ -1,5 +1,4 @@
 <template>
-
   <div class="thisIsMenu">
     <a-switch
       :checked="theme === 'dark'"
@@ -82,7 +81,8 @@ export default defineComponent({
 <style>
 .thisIsMenu{
   position: relative;
-  left: 100px;
+  left: 10px;
+  top: 50px;
   width: 250px;
 }
 </style>
