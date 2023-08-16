@@ -23,10 +23,15 @@
     </a-sub-menu>
     <a-menu-item key="alipay">
       <a href="https://antdv.com" target="_blank" rel="noopener noreferrer">
-        Navigation Four - Link
+        Tôi là VIỆT ANH ĐỖ
       </a>
     </a-menu-item>
   </a-menu>
+    <div>
+      <img
+        style="width: 400px; height: 400px;"
+        src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.6435-9/39861845_2668043143420215_6705299111404371968_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=glExUawv0RMAX_B5hNl&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfDF43ABNj-lSvmKJtv3Enn_S56HG0m79n1RTkd-9oYp3A&oe=6504081E" />
+    </div>
   </div>
 </template>
 <script>
