@@ -1,17 +1,14 @@
 <template>
   <TopMenu></TopMenu>
-  <HelloWorld></HelloWorld>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import TopMenu from './components/TopMenu.vue'
 
 export default {
   name: 'App',
   components: {
     TopMenu,
-    HelloWorld
   }
 }
 </script>
